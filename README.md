@@ -5,9 +5,14 @@
 </div>
 <br>
 <br>
+<h4 align="center">📚 La materia cuenta con  : </h4>
 
-<h4 align="center"> 💻 Ejercicios de la materia : </h4>
+- 🧩 Cuadernillo de ejercicios de la cursada : 
+   > [Cuadernillo](/Cuadernillo%20de%20actividades%202024%20-%20PUBLICO.pdf)
 
-> [Ejercicio 1](/ejercicio1)
->
-> [Ejercicio 2](/ejercicioDemo)
+<h4 align="center">  Resoluciones de ejercicios : </h4>
+
+- 💻 :
+   > [Ejercicio 1](/ejercicio1)
+   >
+   > [Ejercicio 2](/ejercicioDemo)
