@@ -16,6 +16,17 @@ class Ticket{
 		this.pesoTotal = pesoTot;
 		this.precioTotal = precioTot;
 	}
+
+
+	/* Esto no es lo ideal ya que le estoy pasando todo el objeto.
+	 * 
+	 *   public Ticket( Balanza balanza) {
+    	this.fecha = LocalDate.now();
+		this.cantidadDeProductos = balanza.getCantidadDeProductos();
+		this.pesoTotal = balanza.getPesoTotal();
+		this.precioTotal = balanza.getPrecioTotal();
+    }
+*/
 	
 	public double impuesto(){
 		return this.precioTotal * 0.21;
@@ -33,7 +44,7 @@ class Ticket{
 
 
 	public double getPesoTotal() {
-		return pesoTotal;
+		return this.pesoTotal;
 	}
 
 

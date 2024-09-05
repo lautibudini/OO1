@@ -15,13 +15,12 @@ public class Balanza {
 // Metodos implementados : 
 	
 	public Balanza() {
-		this.ponerEnCero();
 	}
 	
 	public void ponerEnCero() {
 		this.cantidadDeProductos = 0;
 		this.pesoTotal = 0;
-		this.pesoTotal = 0;
+		this.precioTotal = 0;
 
 	}
 	
@@ -33,7 +32,7 @@ public class Balanza {
 	}
 	
 	public Ticket emitirTicket() {
-		Ticket ticket = new Ticket(this.cantidadDeProductos, this.precioTotal, this.pesoTotal);
+		Ticket ticket = new Ticket(this.cantidadDeProductos, this.pesoTotal, this.precioTotal);
 		return ticket;
 	}
 	
