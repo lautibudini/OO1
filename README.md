@@ -20,3 +20,9 @@
    > [Ejercicio 4](/ejercicio4-BalanzaMejorada)
    >
    > [Ejercicio 5](/ejercicio5-figurasycuerpos)
+   > 
+   > [Ejercicio 6](/ejercicio6-GenealogiaSalvaje)
+   >
+   > [Ejercicio 7](/ejercicio7-RedDeAlumbrado)
+   >
+   > [Ejercicio 8](/ejercicio8-LookupEmpleados)
