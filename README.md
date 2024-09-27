@@ -26,3 +26,9 @@
    > [Ejercicio 7](/ejercicio7-RedDeAlumbrado)
    >
    > [Ejercicio 8](/ejercicio8-LookupEmpleados)
+   > 
+   > [Ejercicio 9](/ejercicio9-CuentaConGanchos)
+   >
+   > [Ejercicio 10](/ejercicio10-JobScheduler)
+   >
+   > [Ejercicio 11](/ejercicio11-ElInversor)
