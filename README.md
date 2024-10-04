@@ -32,3 +32,9 @@
    > [Ejercicio 10](/ejercicio10-JobScheduler)
    >
    > [Ejercicio 11](/ejercicio11-ElInversor)
+   > 
+   > [Ejercicio 12](/ejercicio12-VolumenYSuperficieDeSolidos)
+   >
+   > [Ejercicio 13](/ejercicio13-ClienteDeCorreo)
+   >
+   > [Ejercicio 14](/ejercicio14-IntervaloDeTiempo)
