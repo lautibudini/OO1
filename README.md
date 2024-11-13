@@ -38,3 +38,7 @@
    > [Ejercicio 13](/ejercicio13-ClienteDeCorreo)
    >
    > [Ejercicio 14](/ejercicio14-IntervaloDeTiempo)
+   >  
+   > [Ejercicio 19](/ejercicio19-ServiciosDeEnviosDePaquetes)
+   >
+   > [Ejercicio 20](/ejercicio20-LiquidacionDeHaberes)
