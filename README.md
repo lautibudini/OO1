@@ -39,6 +39,10 @@
    >
    > [Ejercicio 14](/ejercicio14-IntervaloDeTiempo)
    >  
+   > [Ejercicio 17](/ejercicio17-AlquilerDePropiedades)
+   >
+   > [Ejercicio 18](/ejercicio18-AlquilerDePropiedades2)
+   >  
    > [Ejercicio 19](/Ejercicio19-ServicioDeEnviosDePaquetes)
    >
    > [Ejercicio 20](/Ejercicio20-LiquidacionDeHaberes)
