@@ -38,7 +38,11 @@
    > [Ejercicio 13](/ejercicio13-ClienteDeCorreo)
    >
    > [Ejercicio 14](/ejercicio14-IntervaloDeTiempo)
+   > 
+   > [Ejercicio 15](/ejercicio15-DistribuidoraElectrica)
    >  
+   > [Ejercicio 16](/ejercicio16-FilteredSet)
+   >
    > [Ejercicio 17](/ejercicio17-AlquilerDePropiedades)
    >
    > [Ejercicio 18](/ejercicio18-AlquilerDePropiedades2)
