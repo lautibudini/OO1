@@ -39,6 +39,6 @@
    >
    > [Ejercicio 14](/ejercicio14-IntervaloDeTiempo)
    >  
-   > [Ejercicio 19](/Ejercicio19-ServiciosDeEnviosDePaquetes)
+   > [Ejercicio 19](/Ejercicio19-ServicioDeEnviosDePaquetes)
    >
    > [Ejercicio 20](/Ejercicio20-LiquidacionDeHaberes)
