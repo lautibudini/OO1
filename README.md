@@ -5,10 +5,10 @@
 </div>
 <br>
 <br>
-<h4 align="center">📚 La materia cuenta con  : </h4>
+<h4 align="center">📚 Material  : </h4>
 
 - 💻 Cuadernillo de ejercicios de la cursada : 
-   > [Cuadernillo](/Cuadernillo%20de%20actividades%202024%20-%20PUBLICO.pdf)
+   > [Cuadernillo](/Cuadernillo%20Objetos.pdf)
 
 - 💡 Resoluciones :
    > [Ejercicio 1](/ejercicio1)
@@ -50,3 +50,13 @@
    > [Ejercicio 19](/Ejercicio19-ServicioDeEnviosDePaquetes)
    >
    > [Ejercicio 20](/Ejercicio20-LiquidacionDeHaberes)
+    >  
+   > [Ejercicio 21](/ejercicio21-MapBug)
+   >
+   > [Ejercicio 22]
+   >
+   > [Ejercicio 23](/ejercicio23-MercadoDeObjetos)
+   >  
+   > [Ejercicio 24](/Ejercicio24-PoolCar)
+   >
+   > [Ejercicio 25](/Ejercicio25-Veterinaria)
